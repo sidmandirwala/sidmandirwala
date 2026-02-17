@@ -1,4 +1,4 @@
-# Hello There !
+# Welcome — here's a bit about me.
 
 **Software Engineer** · MS Computer Science @ New York University
 
