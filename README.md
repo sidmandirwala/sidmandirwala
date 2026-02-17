@@ -4,7 +4,7 @@
 
 I build web applications and AI-powered systems with a focus on performance, clean architecture, and scalable design. Currently pursuing my Master's at NYU while working as a Software Engineer Intern at AI4Purpose Inc.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-siddhmandirwala.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://siddhmandirwala.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-siddhmandirwala.dev-000?style=flat&logo=vercel&logoColor=white)](https://siddhmandirwala.dev)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siddhmandirwala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhmandirwala)
 
@@ -83,29 +83,4 @@ I build web applications and AI-powered systems with a focus on performance, cle
 
 ---
 
-## Projects
-
-### [Portafina](https://github.com/sidmandirwala/Portafina) · [Live](https://siddhmandirwala.vercel.app)
-Personal portfolio site built with Next.js 16 and React 19. Features an AI chatbot powered by Google Gemma 3 4B through the Vercel AI SDK with streaming responses, anti-hallucination prompting, and a Supabase-backed lead capture system. Fully themed with dark/light mode and Framer Motion animations.
-
-### [Vizpromax](https://github.com/sidmandirwala/Vizpromax) · [Live](https://vizpromax.vercel.app)
-Interactive visualization platform exploring a decade of NYPD complaint data across NYC's five boroughs. Built with D3.js, featuring 8 chart types — line charts, Sankey diagrams, choropleth maps — with multi-dimensional filtering for spatio-temporal crime trend analysis.
-
-### [MTAnalytics](https://github.com/sidmandirwala/MTAnalytics)
-Distributed analytics pipeline processing 100GB+ of NYC MTA ridership data spanning 17 years and 472+ stations using Apache Spark and PySpark. Includes an XGBoost forecasting model with SHAP interpretability for transit planning insights.
-
-### [ReadmitIQ](https://github.com/sidmandirwala/ReadmitIQ)
-ML system for predicting 30-day hospital readmission risk using MIMIC-III ICU records and the UCI Diabetes dataset. Comparative modeling with Logistic Regression, Random Forest, and XGBoost, with engineered temporal and clinical features.
-
-### [RAGStack](https://github.com/sidmandirwala/RAGStack)
-End-to-end retrieval-augmented generation system. Aggregates data from GitHub, Medium, and LinkedIn through custom scrapers, fine-tunes GPT-2 with PEFT, and serves results via a microservices stack — Docker Compose, MongoDB, Qdrant, Flask, and Gradio.
-
-### [BayesWealth](https://github.com/sidmandirwala/BayesWealth)
-Bayesian causal analysis of financial literacy and saving behavior using PyMC with MCMC sampling. Models a DAG-based mediation framework to establish how age influences saving through financial literacy, with ArviZ diagnostics.
-
-### [PostMinder](https://github.com/sidmandirwala/PostMinder)
-Social media scheduling platform built with Vue.js, Express.js, PostgreSQL, and Redis. Uses BullMQ for async job processing, handling 500+ daily scheduled posts with 99.5% uptime and precise timing control.
-
----
-
-<sub>Open to collaborations and opportunities — feel free to reach out.</sub>
+<sub>Check out my projects — and if anything catches your eye or you'd like to chat, feel free to reach out.</sub>
