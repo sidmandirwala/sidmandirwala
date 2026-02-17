@@ -6,7 +6,7 @@ I build web applications and AI-powered systems with a focus on performance, cle
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-siddhmandirwala.dev-000?style=flat&logo=vercel&logoColor=white)](https://siddhmandirwala.dev)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddh-mandirwala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddh-mandirwala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddhmandirwala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddh-mandirwala)
 
 ---
 
